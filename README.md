@@ -62,7 +62,7 @@
 ### 🌎 Onde me encontrar
 
 📧 **Email:** [franciscocleitondev@gmail.com](mailto:seuemail@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://www.linkedin.com/in/franciscocleitondev)  
+💼 **LinkedIn:** [linkedin.com/in/fc-dev](https://www.linkedin.com/in/fc-dev)  
 
 ---
 

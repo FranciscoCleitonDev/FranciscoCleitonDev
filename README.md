@@ -13,10 +13,10 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 🎓 Formando de **Análise e Desenvolvimento de Sistemas**
 - 💼 Experiência com **Web, Mobile e Desktop**
 - 🔥 Trabalhando em projetos com **Javascript, Python, Php**
-- 🌱 Atualmente me aprofundando no estudo de **JAVA** e seu ecossistema
+- 🌱 Estudo de **JAVA** e **CLOUD COMPUTING**
 
 ---
 

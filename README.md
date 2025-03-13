@@ -16,7 +16,7 @@
 - 🎓 Formando de **Análise e Desenvolvimento de Sistemas**
 - 💼 Experiência com **Web, Mobile e Desktop**
 - 🔥 Trabalhando em projetos com **Javascript, Python, Php**
-- 🌱 Estudo de **JAVA** e **CLOUD COMPUTING**
+- 🌱 Estudando paralelamente **JAVA** e **CLOUD COMPUTING**
 
 ---
 

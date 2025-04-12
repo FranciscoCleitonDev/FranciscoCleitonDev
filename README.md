@@ -13,9 +13,8 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Formando de **Análise e Desenvolvimento de Sistemas**
-- 💼 Experiência com **Web, Mobile e Desktop**
-- 🌱 Estudando paralelamente **JAVA** e **CLOUD COMPUTING**
+- 🎓 **Análise e Desenvolvimento de Sistemas**
+- 💼 **Desenvolvedor Web Fullstack**
 
 ---
 

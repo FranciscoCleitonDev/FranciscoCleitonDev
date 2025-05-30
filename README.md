@@ -1,3 +1,7 @@
+## ABOUT ME  
+Olá! Me chamo Francisco Cleiton, sou desenvolvedor fullstack, apaixonado por tecnologia e por transformar ideias em soluções funcionais.
+Tenho formação em Análise e Desenvolvimento de Sistemas e minha linguagem favorita é o Java.
+Meu nível de inglês é intermediário para leitura, o que me permite estudar documentação e conteúdos técnicos com tranquilidade.
 <br>
 <hr>
 
@@ -16,30 +20,8 @@
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portifolio-eight-mauve-70.vercel.app/)
 
 
-## ABOUT ME  
-```js
-  {
-    "nome": "Francisco Cleiton",
-    "funcao": "Desenvolvedor fullstack",
-    "linguagem_favorita": "Java",
-    "formacao":"Análise e Desenvolvimento de Sistemas",
-    "nivel_ingles": "intermediário para leitura"
-  }
-```
 
-## STACKS
 
-```java
-List<Map<String, List<String>>> tecnologias = Arrays.asList(
-  Map.of("backend", Arrays.asList("Java", "Python", "Node.js")),
-  Map.of("frontend", Arrays.asList("React", "Vue.js", "HTML/CSS")),
-  Map.of("database", Arrays.asList("MySQL", "MongoDB", "PostgreSQL")),
-  Map.of("conteinerizacao", Arrays.asList("Docker", "Kubernetes", "Docker Compose")),
-  Map.of("testes", Arrays.asList("JUnit", "PyTest", "Jest")),
-  Map.of("controleDeVersao", Arrays.asList("Git", "GitHub", "GitLab")),
-  Map.of("sistemasOperacionais", Arrays.asList("Linux", "Windows"))
-);
-```
 
 
 

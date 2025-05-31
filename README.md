@@ -1,22 +1,31 @@
-## ABOUT ME  
-Olá! Me chamo Francisco Cleiton, sou desenvolvedor fullstack, apaixonado por tecnologia e por transformar ideias em soluções funcionais.
-Tenho formação em Análise e Desenvolvimento de Sistemas e minha linguagem favorita é o Java.
-Meu nível de inglês é intermediário para leitura, o que me permite estudar documentação e conteúdos técnicos com tranquilidade.
-<br>
-<hr>
+# Seja Bem vindo ao meu repositorio!
 
-<h1 style="background-color:rgb(21, 120, 185); color: #000000; padding: 10px; border-radius: 8px; text-align:center;">
-  WELCOME
-</h1>
+<p align="center">
+  <!-- Badge de Projeto Brasileiro -->
+  <img src="https://img.shields.io/badge/Brasileiro-🇧🇷-green" alt="Nacionalidade"/>
+
+  <!-- Badge de Visitantes -->
+  <img src="https://komarev.com/ghpvc/?username=franciscocleitondev&color=blue" alt="Visualizações de perfil"/>
+
+  <!-- Badge de Seguidores <img src="https://img.shields.io/github/followers/franciscocleitondev?label=Seguidores&style=social" alt="Seguidores no GitHub"/>-->
+  
+
+  <!-- Badge de Estrelas (de um repositório específico)<img src="https://img.shields.io/github/stars/franciscocleitondev/NOME_DO_REPOSITORIO?style=social" alt="Estrelas"/>  -->
+  
+</p>
 
 
+### SOBRE
+Me chamo Francisco Cleiton.   
+Sou Formando em Análise e desenvolvimento de sistemas.  
+Desenvolvedor Backend   
+Entusiasta Fullstack   
+Minha Linguagem Favorita é Java   
 
 
-
-![banner](/src/capa2.png)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fc-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleitonsousa.io)
+### CONTATO
+Pode Saber mais sobre mim visite:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fc-dev/) 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://portifolio-eight-mauve-70.vercel.app/)
 
 

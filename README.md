@@ -1,4 +1,4 @@
-# Seja Bem vindo ao meu repositorio!
+# Seja Bem vindos ao meu repositorio!
 
 <p align="center">
   <!-- Badge de Projeto Brasileiro -->
